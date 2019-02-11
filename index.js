@@ -1,3 +1,5 @@
+var number = 1;
+
 function takeANumber(katzDeliLine){
   var number = 1;
   number++;
